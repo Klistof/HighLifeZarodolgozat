@@ -40,6 +40,6 @@
         </div>
     </nav>
     <div id="alert_placeholder">
-    </div>l
+    </div>
 
 </header>
