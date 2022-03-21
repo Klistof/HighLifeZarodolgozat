@@ -18,7 +18,7 @@
 <?php
 $select = mysqli_query($link,"SELECT * FROM users INNER JOIN members ON members.uID = users.uID");
 ?>
-<div class="card">
+<div class="card" style="margin-top: 40px;margin-left: auto;margin-right:auto;width: 95%;margin-bottom:5%;">
     <h1><i class="fas fa-book-dead"></i> Felhasználói fiókok kezelése</h1>
     <hr>
 

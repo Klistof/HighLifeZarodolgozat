@@ -57,7 +57,7 @@ while($row = $result->fetch_assoc()) {
 </head>
 
 <body>
-<div class="card">
+<div class="card" style="margin-top: 40px;margin-left: auto;margin-right:auto;width: 95%;margin-bottom:5%;">
     <h1><i class="fas fa-home"></i> Áttekintés</h1>
 
     <hr>

@@ -9,7 +9,7 @@
 
 <?php include('components/navbar.php'); ?>
 <body>
-<div class="card" style="margin-top: 40px;margin-left: auto;margin-right:auto;width: 95%">
+<div class="card" style="margin-top: 40px;margin-left: auto;margin-right:auto;width: 95%;margin-bottom:5%;">
     <h1><i class="fas fa-chart-line"></i> Aktivitás</h1>
     <h1 id="month_placeholder" style="float: right"></h1>
     <hr>

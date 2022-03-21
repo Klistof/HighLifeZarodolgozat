@@ -16,7 +16,7 @@ if ($_COOKIE["level"] < 1) {
 ?>
 <body onload="showTable()">
 
-<div class="card">
+<div class="card" style="margin-top: 40px;margin-left: auto;margin-right:auto;width: 95%;margin-bottom:5%;">
     <h1><i class="fas fa-bookmark"></i> Elfogadásra váró bizonyítékok</h1>
     <hr>
 

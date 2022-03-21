@@ -18,7 +18,7 @@ if ($_COOKIE["level"] < 2) {
 $select = mysqli_query($link,"SELECT * FROM generatetable");
 
 ?>
-<div class="card">
+<div class="card" style="margin-top: 40px;margin-left: auto;margin-right:auto;width: 95%;margin-bottom:5%;">
     <h1><i class="fas fa-envelope"></i> Meghívók kezelése</h1>
     <hr>
 
