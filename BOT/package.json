@@ -1,0 +1,29 @@
+{
+  "name": "tsModeratorBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bd": "tsc",
+    "start": "ts-node tsManagement.ts",
+    "dev": "ts-node-dev --respawn tsManagement.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/ts3-nodejs-library": "^2.0.1",
+    "mysql": "^2.18.1",
+    "ts-node": "^10.4.0",
+    "ts-node-dev": "^1.1.8",
+    "ts3-nodejs-library": "^3.4.0",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "@types/node": "^16.11.7",
+    "express": "^4.17.1",
+    "teamspeak-commander": "^0.1.2",
+    "tty": "^1.0.1"
+  }
+}

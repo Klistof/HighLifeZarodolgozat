@@ -1,0 +1,76 @@
+nav-link, nav-item {
+    font-size: 25px;
+}
+
+#upload {
+    background-color: forestgreen;
+    border: 1px solid white;
+    border-radius: 5px;
+    color:white;
+    float: left;
+    margin-right: 2%;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+}
+
+body {
+    background-color: grey;
+
+}
+
+#logout {
+    background-color: dodgerblue;
+    border: 1px solid white;
+    border-radius: 5px;
+    color:white;
+    float: left;
+    margin-right: 2%;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+#title {
+    margin-top: 20px;
+    font-style: inherit;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
+
+#alertSymbol  {
+    font-size: 25px;
+    margin-right: 15px;
+}
+
+#alert_placeholder {
+    margin-top:5px;
+}
+
+.card {
+	margin-bottom:40%;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right:auto;
+	width: 95%
+}

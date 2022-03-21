@@ -1,0 +1,22 @@
+.datepicker, datepicker-dropdown, dropdown-menu, datepicker-orient-left, datepicker-orient-bottom {
+    background-color: #1c1e21;
+    border: 1px solid white;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.dow {
+    background-color: grey;
+    border-radius: 0px;
+}
+
+.year:hover,.century:hover,.datepicker-switch:hover, .focused,.month:hover,.day:hover{
+    background-color: #555;
+    color: black;
+}
+
+.new ,.range {
+    background-color: #555;
+    color:black;
+}

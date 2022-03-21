@@ -1,0 +1,22 @@
+p {
+    margin-left: 20px;
+}
+
+#keret {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding:20px;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-bottom: 20px;
+}
+
+.col-lg {
+    text-align: center;
+}
+
+span {
+    color:wheat;
+    font-weight: bold;
+
+}
